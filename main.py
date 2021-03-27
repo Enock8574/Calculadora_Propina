@@ -1,4 +1,4 @@
-print("----------Morrigan's Inc. ©2021----------")
+print("----------Enoc Carrera ©2021----------")
 print("Este Software le ayudara a calcular la propina a dar")
 #Variables para recoger los datos de la cantidad de la factura , el porcentaje que escogio el cliente y la cantidad de personas que pagaron la factura
 factura = input("Ingrese la cantidad total de la factura: \n")
